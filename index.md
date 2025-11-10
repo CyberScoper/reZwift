@@ -4,7 +4,7 @@ title: reZwift - Руководство для пользователей
 description: Полное руководство по установке и настройке reZwift для свободных виртуальных тренировок без подписки.
 ---
 
-# reZwift - Руководство для пользователей
+# reZwift - Руководство для пользователей 
 
 <p align="center">
   <img width="128" height="128" alt="reZwift Logo" src="https://github.com/user-attachments/assets/e168bed5-820b-4c36-b19d-3c10f24855c5" />
