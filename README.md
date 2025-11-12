@@ -43,7 +43,7 @@
 <img width="1756" height="860" alt="image" src="https://github.com/user-attachments/assets/e27aa7c3-3923-4c4d-b933-3176e4bacf51" />
 
 
-   ```
+  
 2. **Добавьте в hosts**:
 <img width="913" height="483" alt="Снимок экрана 2025-11-12 в 02 32 50" src="https://github.com/user-attachments/assets/7064a888-070f-49c4-83f2-a66aa6ef00d2" />
 
@@ -55,6 +55,7 @@
 3. **Обновите cacert.pem**:
 откройте директорию с файлом cert-zwift-com.pem
 если вы скачали cert-zwift-com.pem в загрузки тогда
+<img width="2148" height="966" alt="image" src="https://github.com/user-attachments/assets/2f08f2d1-f7d5-43cc-93d6-49ff152e5c2e" />
 
 ```bash
    cd Downloads
