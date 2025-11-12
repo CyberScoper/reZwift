@@ -45,7 +45,8 @@
 
    ```
 2. **Добавьте в hosts**:
-<img width="1826" height="966" alt="image" src="https://github.com/user-attachments/assets/3ec0bb23-42f4-457d-9c34-bcd1cd92d73f" />
+<img width="913" height="483" alt="Снимок экрана 2025-11-12 в 02 32 50" src="https://github.com/user-attachments/assets/7064a888-070f-49c4-83f2-a66aa6ef00d2" />
+
 
 
    ```
