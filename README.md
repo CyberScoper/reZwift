@@ -36,13 +36,29 @@
 1. **Импортируйте сертификат**:
    ```bash
    # В Keychain Access импортируйте cert-zwift-com.pem
+<img width="1450" height="286" alt="image" src="https://github.com/user-attachments/assets/33d2b8f2-1533-4415-bb76-e2fc6f44d2c2" />
+
+
    # Установите доверие: "Always Trust"
+<img width="1756" height="860" alt="image" src="https://github.com/user-attachments/assets/e27aa7c3-3923-4c4d-b933-3176e4bacf51" />
+
+
    ```
 2. **Добавьте в hosts**:
+<img width="1826" height="966" alt="image" src="https://github.com/user-attachments/assets/3ec0bb23-42f4-457d-9c34-bcd1cd92d73f" />
+
+
    ```
-   127.0.0.1 us-or-rly101.zwift.com secure.zwift.com cdn.zwift.com launcher.zwift.com
+   185.217.199.111 us-or-rly101.zwift.com secure.zwift.com cdn.zwift.com launcher.zwift.com
    ```
 3. **Обновите cacert.pem**:
+откройте директорию с файлом cert-zwift-com.pem
+если вы скачали cert-zwift-com.pem в загрузки тогда
+
+```bash
+   cd Downloads
+```
+и введите
    ```bash
    sed -n '29,53p' cert-zwift-com.pem >> ~/Library/Application\ Support/Zwift/data/cacert.pem
    ```
