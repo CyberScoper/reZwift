@@ -288,3 +288,4 @@ C:\Users\[ИмяПользователя]\Documents\Zwift\Activities\
 
 *Это руководство создано сообществом reZwift для помощи пользователям.*
 
+<img width="792" height="443" alt="image" src="https://github.com/user-attachments/assets/a55fcd5e-a460-4259-ab6b-049f21aeaed1" />
