@@ -290,3 +290,5 @@ C:\Users\[ИмяПользователя]\Documents\Zwift\Activities\
 
 <img width="792" height="443" alt="image" src="https://github.com/user-attachments/assets/a55fcd5e-a460-4259-ab6b-049f21aeaed1" />
 <img width="581" height="573" alt="image" src="https://github.com/user-attachments/assets/838f7022-d077-4452-bec0-d6c100942c36" />
+<img width="354" height="482" alt="image" src="https://github.com/user-attachments/assets/1b27d945-a0bd-4c17-bc53-1b576f086b2a" />
+
