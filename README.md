@@ -292,3 +292,18 @@ C:\Users\[ИмяПользователя]\Documents\Zwift\Activities\
 <img width="581" height="573" alt="image" src="https://github.com/user-attachments/assets/838f7022-d077-4452-bec0-d6c100942c36" />
 <img width="354" height="482" alt="image" src="https://github.com/user-attachments/assets/1b27d945-a0bd-4c17-bc53-1b576f086b2a" />
 
+
+<img width="1736" height="1092" alt="image" src="https://github.com/user-attachments/assets/92431945-f775-455d-a85a-70d85bb5a979" />
+
+<img width="912" height="590" alt="image" src="https://github.com/user-attachments/assets/7cc42333-8bbe-4df6-933d-f44d294142b4" />
+
+
+![telegram-cloud-photo-size-2-5418066841675959165-y](https://github.com/user-attachments/assets/8d3d182f-7534-46cf-a9c1-0e2d237797cd)
+
+![telegram-cloud-photo-size-2-5418066841675959166-x](https://github.com/user-attachments/assets/46e5f419-6e90-4b4e-aefe-42e02e1144f9)
+![telegram-cloud-photo-size-2-5418066841675959167-y](https://github.com/user-attachments/assets/789b090e-7891-422e-b250-5547c59e2dfc)
+
+![telegram-cloud-photo-size-2-5418066841675959168-y](https://github.com/user-attachments/assets/892aaadc-16c4-46c0-9029-6eba1dd0e104)
+
+
+
