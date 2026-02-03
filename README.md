@@ -306,4 +306,5 @@ C:\Users\[ИмяПользователя]\Documents\Zwift\Activities\
 ![telegram-cloud-photo-size-2-5418066841675959168-y](https://github.com/user-attachments/assets/892aaadc-16c4-46c0-9029-6eba1dd0e104)
 
 
+<img width="1110" height="659" alt="1" src="https://github.com/user-attachments/assets/5edd7d7a-6dcc-4ad0-885a-17264f6fa14c" />
 
